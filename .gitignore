@@ -1,5 +1,5 @@
 .idea
-*.vscode
+.vscode
 *.csv
 .DS_Store
 
